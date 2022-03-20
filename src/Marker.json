@@ -1,0 +1,98 @@
+[
+  {
+    "id" : 1,
+    "city": "Delhi", 
+    "lat": "28.6600", 
+    "lng": "77.2300", 
+    "country": "India", 
+    "iso2": "IN", 
+    "admin_name": "Delhi", 
+    "capital": "admin", 
+    "population": "29617000", 
+    "population_proper": "16753235"
+  }, 
+  {
+    "id" : 2,
+    "city": "Mumbai", 
+    "lat": "18.9667", 
+    "lng": "72.8333", 
+    "country": "India", 
+    "iso2": "IN", 
+    "admin_name": "Mahārāshtra", 
+    "capital": "admin", 
+    "population": "23355000", 
+    "population_proper": "12478447"
+  }, 
+  {
+    "id" : 3,
+    "city": "Kolkāta", 
+    "lat": "22.5411", 
+    "lng": "88.3378", 
+    "country": "India", 
+    "iso2": "IN", 
+    "admin_name": "West Bengal", 
+    "capital": "admin", 
+    "population": "17560000", 
+    "population_proper": "4496694"
+  }, 
+  {
+    "id" : 4,
+    "city": "Bangalore", 
+    "lat": "12.9699", 
+    "lng": "77.5980", 
+    "country": "India", 
+    "iso2": "IN", 
+    "admin_name": "Karnātaka", 
+    "capital": "admin", 
+    "population": "13707000", 
+    "population_proper": "8443675"
+  }, 
+  {
+    "id" : 5,
+    "city": "Chennai", 
+    "lat": "13.0825", 
+    "lng": "80.2750", 
+    "country": "India", 
+    "iso2": "IN", 
+    "admin_name": "Tamil Nādu", 
+    "capital": "admin", 
+    "population": "11324000", 
+    "population_proper": "6727000"
+  }, 
+  {
+    "id" : 6,
+    "city": "Hyderābād", 
+    "lat": "17.3667", 
+    "lng": "78.4667", 
+    "country": "India", 
+    "iso2": "IN", 
+    "admin_name": "Telangana", 
+    "capital": "admin", 
+    "population": "9746000", 
+    "population_proper": "6993262"
+  }, 
+  {
+    "id" : 7,
+    "city": "Pune", 
+    "lat": "18.5196", 
+    "lng": "73.8553", 
+    "country": "India", 
+    "iso2": "IN", 
+    "admin_name": "Mahārāshtra", 
+    "capital": "", 
+    "population": "7764000", 
+    "population_proper": "3124458"
+  }, 
+  {
+    "id" : 8,
+    "city": "Ahmedabad", 
+    "lat": "23.0300", 
+    "lng": "72.5800", 
+    "country": "India", 
+    "iso2": "IN", 
+    "admin_name": "Gujarāt", 
+    "capital": "minor", 
+    "population": "7410000", 
+    "population_proper": "5570585"
+  }
+]
